@@ -1,0 +1,61 @@
+body{
+    background-image: url("wallpaper3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+}
+#szöveg1{
+    font: small-caps bold large 28px; 
+    color:whitesmoke;
+    text-shadow: 2px 2px black;
+}
+#bekezdés{
+   font:  small-caps bold 40px Arial ;
+   text-align: center;
+   text-shadow: 5px 5px black;
+}
+#cím{
+    font: small-caps bold 50px Arial;
+    text-align: center;
+    text-shadow: 5px 5px black;
+}
+button{
+ color:white;
+ font-size: xx-large;
+ background:none;
+ border-style: none;
+}
+.aot{
+    text-align: center;
+}
+a{
+    text-shadow: 1px    1px black;
+    font-size: 30px;
+    color:white;
+    text-decoration: none;
+}
+#SAO{
+    text-align: center;
+    font:bold  30px arial;
+}
+.SwordArtOnline{
+  font: bold italic 20px Arial;
+  text-shadow: 3.5px 2px black;
+  text-align: center;
+  
+}
+#SaoButton{
+    font: small-caps bold italic 32px Arial;
+    color:aliceblue;
+    text-shadow: 3px 2.5px black;
+}
+#kép{
+    margin-top: 0%;
+    margin-left: 0%;
+   height: 440px;
+   
+}
+#tizedik{
+    margin-top: -1.5%;
+}
+    
